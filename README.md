@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Abdul Ahad Qureshi. I am a third year student majoring in Economics with a double minor in Mathematics and Statistics.
 
 <!--
 **abdulahadq29/abdulahadq29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
