@@ -1,6 +1,6 @@
 ### Hello 
 
-Hi! my name is Abdul Ahad Qureshi and I am an undergraduate student at the University of Toronto. I am in my fourth year majoring in Economics with a double minor in Mathematics and Statistics. 
+Hi! My name is Ahad Qureshi and I am a recent graduate from the University of Toronto. I majored in Economics with a double minor in Mathematics and Statistics.
 
 <!--
 **abdulahadq29/abdulahadq29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
